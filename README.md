@@ -1,4 +1,6 @@
-### Hi there 👋
+### Olá, seja bem-vindo 👋
+
+Meu nome é Christian Fernando, tenho 17 anos e sou de Rio Grande do Sul. No momento estou cursando Técnico em Desenvolvimento de Sistemas e após a conclusão de meu Ensino Médio, pretendo cursar graduação em Análise e Desenvolvimento de Sistemas.
 
 <!--
 **Chrisfer132/Chrisfer132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
