@@ -22,9 +22,9 @@
 </details>
 
 <!-- Links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toquinhaman/)
-[![Github](https://img.shields.io/badge/Github-d3d3d3?style=for-the-badge&logo=Github&logoColor=white)](https://www.kaggle.com/variablebee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-mgauer/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/christian_fmg_/)
+[![Github](https://img.shields.io/badge/Github-d3d3d3?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Chrisfer132)
 
 <!-- GithubStats -->
 ![Chrisfer132 GitHub stats](https://github-readme-stats.vercel.app/api?username=Chrisfer132&show_icons=true&theme=gotham)
