@@ -32,6 +32,7 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [Pack do Estudante](https://github.com/Chrisfer132/packdoestudante)
+- [Calcurada IMC](https://github.com/Chrisfer132/calculadora-imc)
 - [Conversor de Dinheiro](https://github.com/Chrisfer132/DevConverter)
 - [Verificador de Imagem](https://github.com/Chrisfer132/verificador_de_idade)
 - [Adivinhe o Número](https://github.com/Chrisfer132/GuessNumber)
