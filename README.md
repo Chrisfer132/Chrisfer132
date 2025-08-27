@@ -16,7 +16,7 @@
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Tenho 17 anos, atualmente morando no Brasil. Tenho Inglês Intermediário, experiência em SQL, JavaScript, HTML e CSS, e Suporte Online. Algumas das minhas principais habilidades envolvem: Criatividade, comunicação, trabalho em grupo, vontade de aprender, proatividade e diciplina.
+  - 💬 Tenho 18 anos, atualmente morando no Brasil. Tenho Inglês Intermediário, experiência em SQL, JavaScript, HTML e CSS, e Suporte Online. Algumas das minhas principais habilidades envolvem: Criatividade, comunicação, trabalho em grupo, vontade de aprender, proatividade e diciplina.
 
   - ⚡ Tenho paixão por programar, além de me interessar por leitura, especialmente sobre tecnologia, e jogos. Acredito que nossos interesses pessoais expandem nossa percepção e contribuem para uma abordagem mais eficiente na resolução de problemas.
 </details>
