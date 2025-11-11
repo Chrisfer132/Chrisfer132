@@ -8,7 +8,7 @@
 <p>
   Olá 👋, Me chamo Christian! Um apaixonado estudante FullStack do Brasil.
 
-  - 🌱 Cursando Sistemas de Informação, jutamente com o programa da Oracle (Oracle Next Education) 
+  - 🌱 Cursando Sistemas de Informação 
   - 🔭 Estou procurando ume estágio na área de programação. Meu maior sonho é trabalhar como desenvolvedor para o exterior.
 </p>
 
