@@ -2,7 +2,7 @@
 
 # 👨‍💻 Christian Mgauer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=FullStack+Developer;Information+Systems+Student;Tech+Enthusiast+%F0%9F%9A%80;Building+the+Future+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=FrontEnd+Developer;Information+Systems+Student;React+%7C+Tailwind+%7C+Figma;Building+Amazing+Interfaces+%F0%9F%8E%A8)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Chrisfer132&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 
@@ -19,14 +19,14 @@ const christian = {
     education: "Sistemas de Informação 🎓",
     languages: ["Portuguese (Native)", "English (Intermediate)"],
     currentFocus: "Building amazing web experiences",
-    dreamJob: "International Developer 🌎",
+    dreamJob: "International FrontEnd Developer 🌎",
     
     code: ["JavaScript", "Python", "C++", "HTML", "CSS", "SQL"],
     technologies: {
-        frontEnd: ["React", "HTML5", "CSS3"],
+        frontEnd: ["React", "HTML5", "CSS3", "Tailwind CSS"],
         backEnd: ["Node.js"],
         databases: ["PostgreSQL", "MySQL"],
-        tools: ["VSCode", "Git", "GitHub"]
+        tools: ["VSCode", "Git", "GitHub", "Figma"]
     },
     
     softSkills: [
@@ -71,6 +71,7 @@ const christian = {
 ### ⚛️ Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -80,6 +81,7 @@ const christian = {
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -167,7 +169,7 @@ Sistema de amigo secreto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-mgauer/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/christian_fmg_/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chrisfer132)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christianfernando132@gmail.com)
 
 </div>
 
@@ -178,10 +180,6 @@ Sistema de amigo secreto
 ### 💭 Quote do Dia
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🎵 Ouvindo Agora
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=SEU_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=00f7ff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=SEU_SPOTIFY_ID&redirect=true)
 
 ---
 
