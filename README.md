@@ -129,25 +129,6 @@ Sistema de amigo secreto
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/Chrisfer132/Chrisfer132/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Chrisfer132&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
 
 ## 📊 Análise Detalhada
 
