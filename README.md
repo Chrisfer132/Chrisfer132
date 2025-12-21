@@ -14,7 +14,7 @@
 
 ```javascript
 const christian = {
-    location: "Porto Alegre, Brasil 🇧🇷",
+    location: "Seberi, Brasil 🇧🇷",
     age: 18,
     education: "Sistemas de Informação 🎓",
     languages: ["Portuguese (Native)", "English (Intermediate)"],
